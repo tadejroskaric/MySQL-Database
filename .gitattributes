@@ -1,1 +1,1 @@
-*.sql diff
+*.sql linguist-detectable=true
